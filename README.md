@@ -22,7 +22,9 @@ Faker (for generating synthetic data, if used)
 # Project Files
 
 Week1_Data_Cleaning_Billium.ipynb — Python notebook containing the cleaning process.
+
 applicants_cleaned.csv — cleaned dataset.
+
 README.md — project documentation.
 
 # Key Learning Outcomes
